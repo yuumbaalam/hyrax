@@ -48,7 +48,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'flipflop', '~> 2.2'
   spec.add_dependency 'jquery-datatables-rails', '~> 3.4.0'
   spec.add_dependency 'rdf-rdfxml'
-  spec.add_dependency 'railties', '~> 5.0'
+  spec.add_dependency 'railties', '~> 5.0.1.rc2'
   spec.add_dependency 'clipboard-rails', '~> 1.5'
   spec.add_dependency 'rails_autolink', '~> 1.1'
   spec.add_dependency 'active_fedora-noid', '~> 2.0'
